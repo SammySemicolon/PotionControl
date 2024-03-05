@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.sammy.potioncontrol.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "DisplayEffectsScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "potion_control.general.mixin-refmap.json",
+  "minVersion": "0.8"
+}
